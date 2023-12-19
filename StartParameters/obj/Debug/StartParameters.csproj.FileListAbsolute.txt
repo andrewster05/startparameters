@@ -1,0 +1,9 @@
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.csproj.AssemblyReference.cache
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.ProjectInstaller.resources
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.csproj.GenerateResource.cache
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.csproj.CoreCompileInputs.cache
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\bin\Debug\StartParameters.exe.config
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\bin\Debug\StartParameters.exe
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\bin\Debug\StartParameters.pdb
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.exe
+C:\Users\JonathanShelley\source\repos\StartParameters\StartParameters\obj\Debug\StartParameters.pdb
